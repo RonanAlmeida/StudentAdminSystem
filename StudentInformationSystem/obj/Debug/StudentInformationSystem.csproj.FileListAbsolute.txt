@@ -1,0 +1,24 @@
+E:\Comp Sci\Assignment4\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+E:\Comp Sci\Assignment4\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+E:\Comp Sci\Assignment4\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.frmLogin.resources
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CoreCompileInputs.cache
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.frmAdmin.resources
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.frmView.resources
+E:\Comp Sci\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojAssemblyReference.cache
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.frmAdmin.resources
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.frmLogin.resources
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.frmView.resources
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.Properties.Resources.resources
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.GenerateResource.cache
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\Ronan\Desktop\studentinfosys\Assignment4\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
