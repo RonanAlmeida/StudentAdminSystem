@@ -6,7 +6,7 @@ Windows App that allows an allows teachers to edit, add & delete student informa
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/RonanAlmeida/personal-website-app/master/preview_images/WebsiteImage1.PNG">
-<img src="https://raw.githubusercontent.com/RonanAlmeida/personal-website-app/master/preview_images/WebsiteImage2.PNG">
+  <img src="https://github.com/RonanAlmeida/StudentAdminSystem/blob/master/preview_images/admin3.6da62e1f.png">
+<img src="https://github.com/RonanAlmeida/StudentAdminSystem/blob/master/preview_images/admin2.89d108d9.png">
  </p>
 
