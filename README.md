@@ -1,4 +1,4 @@
-# 📚 Student Administrative System
+# 📚 Student Admin System
 Windows App that allows an allows teachers to edit, add & delete student information within a classroom. Connected through an Access Database which utilizes varying SQL queries to alter and track student data.
 
 
